@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Down")
+game.Players.LocalPlayer:Kick("Down join https://discord.gg/A7PDRqHMVD for new")
